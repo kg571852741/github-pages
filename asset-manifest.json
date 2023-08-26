@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.e47f16ed.css",
-    "main.js": "/static/js/main.421e04f4.js",
+    "main.js": "/static/js/main.062cace6.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.d92e8163.chunk.js": "/static/js/64.d92e8163.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.39bf18f9.chunk.js": "/static/js/769.39bf18f9.chunk.js",
-    "static/media/urbanet_daniel.jpg": "/static/media/urbanet_daniel.f161bbaa728832076509.jpg",
+    "static/media/urbanet_daniel.jpg": "/static/media/urbanet_daniel.eb3bdeb71a4beed0cb76.jpg",
     "static/media/Poster-for-Charles-Kao-Cup.webp": "/static/media/Poster-for-Charles-Kao-Cup.3ab41a0985da955b9b62.webp",
     "static/media/Commerical_castle_rgb_org_color1.webp": "/static/media/Commerical_castle_rgb_org_color1.46560a455f85404cffa7.webp",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -25,7 +25,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.e47f16ed.css.map": "/static/css/main.e47f16ed.css.map",
-    "main.421e04f4.js.map": "/static/js/main.421e04f4.js.map",
+    "main.062cace6.js.map": "/static/js/main.062cace6.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.d92e8163.chunk.js.map": "/static/js/64.d92e8163.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.e47f16ed.css",
-    "static/js/main.421e04f4.js"
+    "static/js/main.062cace6.js"
   ]
 }
